@@ -1,5 +1,3 @@
-// ASSIGNMENT 
-
 // Create a website than changes background every 3 seconds 
 let color = ['red', 'orange', 'yellow', 'green', 'cyan', 'blue', 'purple']
 
